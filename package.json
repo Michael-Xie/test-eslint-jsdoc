@@ -1,0 +1,15 @@
+{
+  "name": "test-eslint-jsdoc",
+  "version": "1.0.0",
+  "description": "test eslint for jsdoc and see if it has what I am looking for",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.10.0",
+    "eslint-plugin-jsdoc": "^50.2.2"
+  }
+}
